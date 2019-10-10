@@ -1,0 +1,26 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/Wallpers/1.jpg</file>
+        <file>Images/Wallpers/2.jpg</file>
+        <file>Images/exit.png</file>
+        <file>authorization.cpp</file>
+        <file>authorization.h</file>
+        <file>chatbox.cpp</file>
+        <file>chatbox.h</file>
+        <file>main.cpp</file>
+        <file>mainwindow.cpp</file>
+        <file>mainwindow.h</file>
+        <file>registration.cpp</file>
+        <file>registration.h</file>
+        <file>user.cpp</file>
+        <file>user.h</file>
+        <file>userbox.cpp</file>
+        <file>userbox.h</file>
+        <file>userwindow.cpp</file>
+        <file>userwindow.h</file>
+        <file>Images/settings.svg</file>
+        <file>Images/settings_hover.svg</file>
+        <file>Images/exit.svg</file>
+        <file>Images/exit_hover.svg</file>
+    </qresource>
+</RCC>
