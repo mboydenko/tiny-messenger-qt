@@ -9,7 +9,6 @@
 
 #include <QBoxLayout>
 #include <QList>
-#include <QThread>
 
 
 
