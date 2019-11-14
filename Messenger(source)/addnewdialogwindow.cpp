@@ -10,7 +10,7 @@ AddNewDialogWindow::AddNewDialogWindow(QWidget *parent) :
 {
     ui->setupUi(this);
 
-	setWindowTitle("Maksogram");
+	setWindowTitle("Add new dialog");
 }
 
 AddNewDialogWindow::~AddNewDialogWindow()
