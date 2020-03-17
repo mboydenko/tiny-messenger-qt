@@ -1,5 +1,7 @@
 #include "userbox.h"
 #include "ui_userbox.h"
+#include <QVBoxLayout>
+#include <QKeyEvent>
 
 UserBox::UserBox(QWidget *parent) :
     QWidget(parent),
